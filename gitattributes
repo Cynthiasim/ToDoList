@@ -1,0 +1,3 @@
+*.javascript linguistic-detectable=True
+*.css linguistic-detectable=True
+*.hmtl linguistic-detectable=True
